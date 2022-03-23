@@ -1,4 +1,5 @@
 # :man_technologist: William Wayn
+`Brazilian, physicist, and passioned by solver bussiness problems with data`
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/willzwayn)](https://github.com/WillzWayn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WillzWayn/)](https://www.linkedin.com/in/WillzWayn/)
